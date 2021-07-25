@@ -21,4 +21,3 @@ VALUES ('Rafferty', 31),
        ('Robinson', 34),
        ('Smith', 34),
        ('Williams', NULL);
-© 2021 GitHub, Inc.
