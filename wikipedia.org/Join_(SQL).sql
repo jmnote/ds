@@ -1,6 +1,3 @@
-CREATE DATABASE wiki;
-USE wiki;
-
 CREATE TABLE department(
     DepartmentID INT PRIMARY KEY NOT NULL,
     DepartmentName VARCHAR(20)
