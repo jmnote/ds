@@ -1,5 +1,5 @@
-CREATE DATABASE wiki;
-USE wiki;
+CREATE DATABASE wikipedia;
+USE wikipedia;
 
 CREATE TABLE department(
     DepartmentID INT PRIMARY KEY NOT NULL,
